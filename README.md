@@ -22,6 +22,6 @@ hostnames.
 | On-Prem | [sportgramme-on-prem](https://github.com/sportgramme/sportgramme-on-prem) | Restricted back office — the access-control model and its operator console |
 
 See
-[ARCHITECTURE.md](https://github.com/sportgramme/.github/blob/main/ARCHITECTURE.md)
+[ARCHITECTURE.md](https://github.com/sportgramme/sportgramme/blob/main/ARCHITECTURE.md)
 for how the surfaces fit together and the consolidation rationale, and the shared
-[glossary](https://github.com/sportgramme/.github/tree/main/Glossary).
+[glossary](https://github.com/sportgramme/sportgramme/tree/main/Glossary).
